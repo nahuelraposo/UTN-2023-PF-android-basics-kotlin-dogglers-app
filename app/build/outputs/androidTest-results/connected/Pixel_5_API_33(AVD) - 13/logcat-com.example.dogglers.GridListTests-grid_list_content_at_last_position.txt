@@ -1,0 +1,489 @@
+06-25 05:13:00.753 13246 13273 I TestRunner: started: grid_list_content_at_last_position(com.example.dogglers.GridListTests)
+06-25 05:13:00.760 13246 13273 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-25 05:13:00.792   943  1311 D SplashScreenView: Build android.window.SplashScreenView{488a487 V.E...... ......ID 0,0-0,0}
+06-25 05:13:00.792   943  1311 D SplashScreenView: Icon: view: null drawable: null size: 0
+06-25 05:13:00.792   943  1311 D SplashScreenView: Branding: view: android.view.View{7b95fb4 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+06-25 05:13:00.819   687  2149 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=1874795 mSleepTimeMs=0 mIdleTimeMs=1169054 mActivityStatsTechSpecificInfo=[{mRat=UNKNOWN,mFrequencyRange=UNKNOWN,mTxTimeMs[]=[0, 0, 0, 0, 0],mRxTimeMs=0}]}
+06-25 05:13:00.833 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c in: PRE_ON_CREATE
+06-25 05:13:00.834 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c
+06-25 05:13:00.841   943  1326 W Parcel  : Expecting binder but got null!
+06-25 05:13:00.865 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c in: CREATED
+06-25 05:13:00.870 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c
+06-25 05:13:00.872 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c in: STARTED
+06-25 05:13:00.873 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c
+06-25 05:13:00.891 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c in: RESUMED
+06-25 05:13:00.892 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c
+06-25 05:13:00.893   382   528 I netd    : tetherGetStats() -> {[]} <0.83ms>
+06-25 05:13:00.895 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c in: PAUSED
+06-25 05:13:00.895 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c
+06-25 05:13:00.907   687   746 W CpuPowerCalculator: UID 50168 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.907   687   746 W CpuPowerCalculator: UID 50168 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.907   687   746 W CpuPowerCalculator: UID 50167 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.908  2617  2617 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+06-25 05:13:00.909  2617  3666 E HwDetectorWithState: a: 3
+06-25 05:13:00.912 13246 13255 W xample.dogglers: Cleared Reference was only reachable from finalizer (only reported once)
+06-25 05:13:00.917   687   746 W CpuPowerCalculator: UID 50167 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.918   687   746 W CpuPowerCalculator: UID 50166 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.918   687   746 W CpuPowerCalculator: UID 50166 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.918   687   746 W CpuPowerCalculator: UID 50165 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.918   687   746 W CpuPowerCalculator: UID 50165 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.918   687   746 W CpuPowerCalculator: UID 50164 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.919   687   746 W CpuPowerCalculator: UID 50164 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.919   687   746 W CpuPowerCalculator: UID 50162 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.919   687   746 W CpuPowerCalculator: UID 50162 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.919   687   746 W CpuPowerCalculator: UID 50161 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.919   687   746 W CpuPowerCalculator: UID 50161 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.920   687   746 W CpuPowerCalculator: UID 50160 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.920   687   746 W CpuPowerCalculator: UID 50160 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.920   687   746 W CpuPowerCalculator: UID 50158 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.920   687   746 W CpuPowerCalculator: UID 50158 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.920   687   746 W CpuPowerCalculator: UID 50157 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.920   687   746 W CpuPowerCalculator: UID 50157 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.922 13246 13246 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@48afed2 in: PRE_ON_CREATE
+06-25 05:13:00.923   687   746 W CpuPowerCalculator: UID 50112 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.923   687   746 W CpuPowerCalculator: UID 50112 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.924 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-25 05:13:00.924   687   746 W CpuPowerCalculator: UID 10177 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.925   687   746 W CpuPowerCalculator: UID 10177 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.925   687   746 W CpuPowerCalculator: UID 10177 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.925   687   746 W CpuPowerCalculator: UID 10177 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.926   687   746 W CpuPowerCalculator: UID 10177 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.929   687   746 W CpuPowerCalculator: UID 10176 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.930   687   746 W CpuPowerCalculator: UID 10176 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.931   687   746 W CpuPowerCalculator: UID 10176 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.931   687   746 W CpuPowerCalculator: UID 10176 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.931   687   746 W CpuPowerCalculator: UID 10175 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.931   687   746 W CpuPowerCalculator: UID 10175 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.932   687   746 W CpuPowerCalculator: UID 10175 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.932   687   746 W CpuPowerCalculator: UID 10175 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.932   687   746 W CpuPowerCalculator: UID 10175 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.933   687   746 W CpuPowerCalculator: UID 10174 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.933   687   746 W CpuPowerCalculator: UID 10174 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.933   687   746 W CpuPowerCalculator: UID 10174 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.933   687   746 W CpuPowerCalculator: UID 10174 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.934   687   746 W CpuPowerCalculator: UID 10173 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.934   687   746 W CpuPowerCalculator: UID 10173 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.934   687   746 W CpuPowerCalculator: UID 10173 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.934   687   746 W CpuPowerCalculator: UID 10173 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.934   687   746 W CpuPowerCalculator: UID 10173 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.934   687   746 W CpuPowerCalculator: UID 10172 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.934   687   746 W CpuPowerCalculator: UID 10172 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.935   687   746 W CpuPowerCalculator: UID 10172 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.935   687   746 W CpuPowerCalculator: UID 10172 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.935   687   746 W CpuPowerCalculator: UID 10172 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.935   687   746 W CpuPowerCalculator: UID 10170 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.939   687   746 W CpuPowerCalculator: UID 10170 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.939   687   746 W CpuPowerCalculator: UID 10170 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.940   687   746 W CpuPowerCalculator: UID 10170 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.940   687   746 W CpuPowerCalculator: UID 10169 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.941   687   746 W CpuPowerCalculator: UID 10169 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.942   687   746 W CpuPowerCalculator: UID 10169 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.942   687   746 W CpuPowerCalculator: UID 10169 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.943   687   746 W CpuPowerCalculator: UID 10168 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.943   687   746 W CpuPowerCalculator: UID 10168 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.944   687   746 W CpuPowerCalculator: UID 10168 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.944   687   746 W CpuPowerCalculator: UID 10168 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.946   687   746 W CpuPowerCalculator: UID 10167 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.946   687   746 W CpuPowerCalculator: UID 10167 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.946   687   746 W CpuPowerCalculator: UID 10167 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.946   687   746 W CpuPowerCalculator: UID 10167 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.947   687   746 W CpuPowerCalculator: UID 10165 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.947   687   746 W CpuPowerCalculator: UID 10165 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.948   687   746 W CpuPowerCalculator: UID 10165 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.948   687   746 W CpuPowerCalculator: UID 10165 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.948   687   746 W CpuPowerCalculator: UID 10164 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.948   687   746 W CpuPowerCalculator: UID 10164 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.948   687   746 W CpuPowerCalculator: UID 10164 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.948   687   746 W CpuPowerCalculator: UID 10164 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.948   687   746 W CpuPowerCalculator: UID 10164 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10152 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10152 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10152 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10152 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10151 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10151 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10151 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10151 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10151 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.949   687   746 W CpuPowerCalculator: UID 10151 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.950   687   746 W CpuPowerCalculator: UID 10150 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.950   687   746 W CpuPowerCalculator: UID 10150 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.950   687   746 W CpuPowerCalculator: UID 10150 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.950   687   746 W CpuPowerCalculator: UID 10150 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.950   687   746 W CpuPowerCalculator: UID 10150 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.950   687   746 W CpuPowerCalculator: UID 10149 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.951   687   746 W CpuPowerCalculator: UID 10149 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.958   687   746 W CpuPowerCalculator: UID 10149 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.958   687   746 W CpuPowerCalculator: UID 10148 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.958   687   746 W CpuPowerCalculator: UID 10148 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.959   687   746 W CpuPowerCalculator: UID 10148 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.959   687   746 W CpuPowerCalculator: UID 10148 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.959   687   746 W CpuPowerCalculator: UID 10144 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.960   687   746 W CpuPowerCalculator: UID 10144 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.961   687   746 W CpuPowerCalculator: UID 10144 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.961   687   746 W CpuPowerCalculator: UID 10144 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.964 13246 13246 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@48afed2 in: CREATED
+06-25 05:13:00.965 13246 13246 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.GridListActivity@48afed2
+06-25 05:13:00.966 13246 13246 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@48afed2 in: STARTED
+06-25 05:13:00.967 13246 13246 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.GridListActivity@48afed2
+06-25 05:13:00.968 13246 13246 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@48afed2 in: RESUMED
+06-25 05:13:00.969   687   746 W CpuPowerCalculator: UID 10142 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.969 13246 13246 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.GridListActivity@48afed2
+06-25 05:13:00.970   687   746 W CpuPowerCalculator: UID 10142 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.970   687   746 W CpuPowerCalculator: UID 10142 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.973   687   746 W CpuPowerCalculator: UID 10142 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.973   687   746 W CpuPowerCalculator: UID 10142 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.973   687   746 W CpuPowerCalculator: UID 10142 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.974   687   746 W CpuPowerCalculator: UID 10140 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.974   687   746 W CpuPowerCalculator: UID 10140 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.974   687   746 W CpuPowerCalculator: UID 10140 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.974   687   746 W CpuPowerCalculator: UID 10140 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.975   687   746 W CpuPowerCalculator: UID 10140 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.975   687   746 W CpuPowerCalculator: UID 10139 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.975   687   746 W CpuPowerCalculator: UID 10139 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.976   687   746 W CpuPowerCalculator: UID 10139 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.976   687   746 W CpuPowerCalculator: UID 10139 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.976   687   746 W CpuPowerCalculator: UID 10139 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.977   687   746 W CpuPowerCalculator: UID 10138 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.977   687   746 W CpuPowerCalculator: UID 10138 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.978   687   746 W CpuPowerCalculator: UID 10138 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.978   687   746 W CpuPowerCalculator: UID 10138 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.979   687   746 W CpuPowerCalculator: UID 10136 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.979   687   746 W CpuPowerCalculator: UID 10136 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.984   687   746 W CpuPowerCalculator: UID 10136 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.984   687   746 W CpuPowerCalculator: UID 10136 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.984   687   746 W CpuPowerCalculator: UID 10136 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.985   687   746 W CpuPowerCalculator: UID 10136 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.985   687   746 W CpuPowerCalculator: UID 10133 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.985   687   746 W CpuPowerCalculator: UID 10133 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.986   687   746 W CpuPowerCalculator: UID 10133 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.986   687   746 W CpuPowerCalculator: UID 10133 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.987   687   746 W CpuPowerCalculator: UID 10133 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.987   687   746 W CpuPowerCalculator: UID 10133 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.987   687   746 W CpuPowerCalculator: UID 10132 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.988   687   746 W CpuPowerCalculator: UID 10132 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.989   687   746 W CpuPowerCalculator: UID 10132 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.989   687   746 W CpuPowerCalculator: UID 10132 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.989   687   746 W CpuPowerCalculator: UID 10132 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.991   687   746 W CpuPowerCalculator: UID 10130 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.991   687   746 W CpuPowerCalculator: UID 10130 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.991   687   746 W CpuPowerCalculator: UID 10130 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.992   687   746 W CpuPowerCalculator: UID 10130 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.992   687   746 W CpuPowerCalculator: UID 10130 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.993   687   746 W CpuPowerCalculator: UID 10128 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.993   687   746 W CpuPowerCalculator: UID 10128 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.993   687   746 W CpuPowerCalculator: UID 10128 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.994   687   746 W CpuPowerCalculator: UID 10128 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.994   687   746 W CpuPowerCalculator: UID 10128 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.994   687   746 W CpuPowerCalculator: UID 10128 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.995   687   746 W CpuPowerCalculator: UID 10125 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:00.996   687   746 W CpuPowerCalculator: UID 10125 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:00.996   687   746 W CpuPowerCalculator: UID 10125 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.000   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.001   687   746 W CpuPowerCalculator: UID 10125 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.001   687   746 W CpuPowerCalculator: UID 10124 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.002   687   746 W CpuPowerCalculator: UID 10124 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.002   687   746 W CpuPowerCalculator: UID 10124 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.002   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.002   687   746 W CpuPowerCalculator: UID 10124 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.002   687   746 W CpuPowerCalculator: UID 10123 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.003   687   746 W CpuPowerCalculator: UID 10123 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.003   687   746 W CpuPowerCalculator: UID 10123 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.003   687   746 W CpuPowerCalculator: UID 10123 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.004   687   746 W CpuPowerCalculator: UID 10122 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.004   687   746 W CpuPowerCalculator: UID 10122 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.004   687   746 W CpuPowerCalculator: UID 10122 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.005   687   746 W CpuPowerCalculator: UID 10122 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.005   687   746 W CpuPowerCalculator: UID 10121 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.005   687   746 W CpuPowerCalculator: UID 10121 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.005   687   746 W CpuPowerCalculator: UID 10121 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.006   687   746 W CpuPowerCalculator: UID 10121 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.006   687   746 W CpuPowerCalculator: UID 10121 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.006   687   746 W CpuPowerCalculator: UID 10121 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.007   687   746 W CpuPowerCalculator: UID 10120 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.007   687   746 W CpuPowerCalculator: UID 10120 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.007   687   746 W CpuPowerCalculator: UID 10120 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.008   687   746 W CpuPowerCalculator: UID 10120 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.008   687   746 W CpuPowerCalculator: UID 10120 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.008   687   746 W CpuPowerCalculator: UID 10119 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.008   687   746 W CpuPowerCalculator: UID 10119 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.009   687   746 W CpuPowerCalculator: UID 10119 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.009   687   746 W CpuPowerCalculator: UID 10119 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.009   687   746 W CpuPowerCalculator: UID 10116 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.009   687   746 W CpuPowerCalculator: UID 10116 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.010   687   746 W CpuPowerCalculator: UID 10116 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.010   687   746 W CpuPowerCalculator: UID 10116 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.010   687   746 W CpuPowerCalculator: UID 10116 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.011   687   746 W CpuPowerCalculator: UID 10116 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.011   687   746 W CpuPowerCalculator: UID 10115 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.012   687   746 W CpuPowerCalculator: UID 10115 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.012   687   746 W CpuPowerCalculator: UID 10115 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.012   687   746 W CpuPowerCalculator: UID 10115 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.013   687   746 W CpuPowerCalculator: UID 10115 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.019   687   746 W CpuPowerCalculator: UID 10115 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.020   687   746 W CpuPowerCalculator: UID 10114 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.020   687   746 W CpuPowerCalculator: UID 10114 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.020   687   746 W CpuPowerCalculator: UID 10114 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.020   687   746 W CpuPowerCalculator: UID 10114 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.020   687   746 W CpuPowerCalculator: UID 10114 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.021   687   746 W CpuPowerCalculator: UID 10113 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.021   687   746 W CpuPowerCalculator: UID 10113 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.021   687   746 W CpuPowerCalculator: UID 10113 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.022   687   746 W CpuPowerCalculator: UID 10113 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.022   687   746 W CpuPowerCalculator: UID 10113 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.023   687   746 W CpuPowerCalculator: UID 10112 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.023   687   746 W CpuPowerCalculator: UID 10112 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.024   687   746 W CpuPowerCalculator: UID 10112 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.024   687   746 W CpuPowerCalculator: UID 10112 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.024   687   746 W CpuPowerCalculator: UID 10112 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.025   687   746 W CpuPowerCalculator: UID 10112 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.025   687   746 W CpuPowerCalculator: UID 10111 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.026   687   746 W CpuPowerCalculator: UID 10111 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.026   687   746 W CpuPowerCalculator: UID 10111 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.026   687   746 W CpuPowerCalculator: UID 10111 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.026   687   746 W CpuPowerCalculator: UID 10111 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.027   687   746 W CpuPowerCalculator: UID 10110 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.028   687   746 W CpuPowerCalculator: UID 10110 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.028   687   746 W CpuPowerCalculator: UID 10110 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.029   687   746 W CpuPowerCalculator: UID 10110 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.029   687   746 W CpuPowerCalculator: UID 10110 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.031   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af1f7b0
+06-25 05:13:01.031   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af23e90
+06-25 05:13:01.031   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.034   687   746 W CpuPowerCalculator: UID 10110 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.035   687   746 W CpuPowerCalculator: UID 10108 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.036   687   746 W CpuPowerCalculator: UID 10108 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.037   687   746 W CpuPowerCalculator: UID 10108 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.037   687   746 W CpuPowerCalculator: UID 10108 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.037   687   746 W CpuPowerCalculator: UID 10107 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.038   687   746 W CpuPowerCalculator: UID 10107 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.038   687   746 W CpuPowerCalculator: UID 10107 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.039   687   746 W CpuPowerCalculator: UID 10107 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.039   687   746 W CpuPowerCalculator: UID 10106 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.039   687   746 W CpuPowerCalculator: UID 10106 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.040   687   746 W CpuPowerCalculator: UID 10106 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.040   687   746 W CpuPowerCalculator: UID 10106 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.040   687   746 W CpuPowerCalculator: UID 10105 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.041   687   746 W CpuPowerCalculator: UID 10105 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.041   687   746 W CpuPowerCalculator: UID 10105 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.042   687   746 W CpuPowerCalculator: UID 10105 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.042   687   746 W CpuPowerCalculator: UID 10105 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.043   687   746 W CpuPowerCalculator: UID 10104 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.043   687   746 W CpuPowerCalculator: UID 10104 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.045   687   746 W CpuPowerCalculator: UID 10104 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.045   687   746 W CpuPowerCalculator: UID 10104 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.045   687   746 W CpuPowerCalculator: UID 10103 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.046   687   746 W CpuPowerCalculator: UID 10103 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.046   687   746 W CpuPowerCalculator: UID 10103 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.050   687   746 W CpuPowerCalculator: UID 10103 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.050   687   746 W CpuPowerCalculator: UID 10102 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.051   687   746 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.052   687   746 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.052   687   746 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.052   687   746 W CpuPowerCalculator: UID 10102 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.052   687   746 W CpuPowerCalculator: UID 10101 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.053   687   746 W CpuPowerCalculator: UID 10101 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.054   687   746 W CpuPowerCalculator: UID 10101 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.054   687   746 W CpuPowerCalculator: UID 10101 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.055   687   746 W CpuPowerCalculator: UID 10094 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.055   687   746 W CpuPowerCalculator: UID 10094 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.056   687   746 W CpuPowerCalculator: UID 10094 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.056   687   746 W CpuPowerCalculator: UID 10094 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.057   687   746 W CpuPowerCalculator: UID 10094 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.057   687   746 W CpuPowerCalculator: UID 10080 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.058   687   746 W CpuPowerCalculator: UID 10080 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.058   687   746 W CpuPowerCalculator: UID 10080 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.058   687   746 W CpuPowerCalculator: UID 10080 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.059   687   746 W CpuPowerCalculator: UID 10079 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.059   687   746 W CpuPowerCalculator: UID 10079 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.060   687   746 W CpuPowerCalculator: UID 10079 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.060   687   746 W CpuPowerCalculator: UID 10079 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.060   687   746 W CpuPowerCalculator: UID 10079 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.061   687   746 W CpuPowerCalculator: UID 10078 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.062   687   746 W CpuPowerCalculator: UID 10078 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.062   687   746 W CpuPowerCalculator: UID 10078 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.062   687   746 W CpuPowerCalculator: UID 10078 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.062   687   746 W CpuPowerCalculator: UID 10078 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.068   687   746 W CpuPowerCalculator: UID 10077 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.068   687   746 W CpuPowerCalculator: UID 10077 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.068   687   746 W CpuPowerCalculator: UID 10077 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.068   687   746 W CpuPowerCalculator: UID 10077 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.068   687   746 W CpuPowerCalculator: UID 10075 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.069   687   746 W CpuPowerCalculator: UID 10075 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.069   687   746 W CpuPowerCalculator: UID 10075 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.070   687   746 W CpuPowerCalculator: UID 10075 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.071   687   746 W CpuPowerCalculator: UID 10074 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.071   687   746 W CpuPowerCalculator: UID 10074 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.071   687   746 W CpuPowerCalculator: UID 10074 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.071   687   746 W CpuPowerCalculator: UID 10074 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.072   687   746 W CpuPowerCalculator: UID 10073 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.073   687   746 W CpuPowerCalculator: UID 10073 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.073   687   746 W CpuPowerCalculator: UID 10073 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.073   687   746 W CpuPowerCalculator: UID 10073 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.074   687   746 W CpuPowerCalculator: UID 10070 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.074   687   746 W CpuPowerCalculator: UID 10070 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.075   687   746 W CpuPowerCalculator: UID 10070 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.075   687   746 W CpuPowerCalculator: UID 10070 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.075   687   746 W CpuPowerCalculator: UID 10070 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.076   687   746 W CpuPowerCalculator: UID 9999 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.076   687   746 W CpuPowerCalculator: UID 9999 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.077   687   746 W CpuPowerCalculator: UID 2000 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.077   687   746 W CpuPowerCalculator: UID 2000 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.078   687   746 W CpuPowerCalculator: UID 2000 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.078   687   746 W CpuPowerCalculator: UID 2000 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.079   687   746 W CpuPowerCalculator: UID 1073 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.079   687   746 W CpuPowerCalculator: UID 1073 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.079   687   746 W CpuPowerCalculator: UID 1073 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.079   687   746 W CpuPowerCalculator: UID 1073 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.080   687   746 W CpuPowerCalculator: UID 1072 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.080   687   746 W CpuPowerCalculator: UID 1072 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.084   687   746 W CpuPowerCalculator: UID 1069 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.084   687   746 W CpuPowerCalculator: UID 1069 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.085   687   746 W CpuPowerCalculator: UID 1068 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.085   687   746 W CpuPowerCalculator: UID 1068 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.085   687   746 W CpuPowerCalculator: UID 1068 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.085   687   746 W CpuPowerCalculator: UID 1068 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.085   687   746 W CpuPowerCalculator: UID 1067 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.085   687   746 W CpuPowerCalculator: UID 1067 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.086   687   746 W CpuPowerCalculator: UID 1066 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.086   687   746 W CpuPowerCalculator: UID 1066 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.086   687   746 W CpuPowerCalculator: UID 1058 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.086   687   746 W CpuPowerCalculator: UID 1058 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.087   687   746 W CpuPowerCalculator: UID 1053 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.087   687   746 W CpuPowerCalculator: UID 1053 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.087   687   746 W CpuPowerCalculator: UID 1047 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.088   687   746 W CpuPowerCalculator: UID 1047 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.088   687   746 W CpuPowerCalculator: UID 1046 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.088   687   746 W CpuPowerCalculator: UID 1046 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.088   687   746 W CpuPowerCalculator: UID 1041 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.088   687   746 W CpuPowerCalculator: UID 1041 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.089   687   746 W CpuPowerCalculator: UID 1040 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.089   687   746 W CpuPowerCalculator: UID 1040 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.089   687   746 W CpuPowerCalculator: UID 1036 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.089   687   746 W CpuPowerCalculator: UID 1036 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.090   687   746 W CpuPowerCalculator: UID 1027 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.090   687   746 W CpuPowerCalculator: UID 1027 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.090   687   746 W CpuPowerCalculator: UID 1027 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.090   687   746 W CpuPowerCalculator: UID 1027 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.091   687   746 W CpuPowerCalculator: UID 1021 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.091   687   746 W CpuPowerCalculator: UID 1021 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.091   687   746 W CpuPowerCalculator: UID 1020 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.092   687   746 W CpuPowerCalculator: UID 1020 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.092   687   746 W CpuPowerCalculator: UID 1019 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.092   687   746 W CpuPowerCalculator: UID 1019 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.092   687   746 W CpuPowerCalculator: UID 1017 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.092   687   746 W CpuPowerCalculator: UID 1017 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.092   687   746 W CpuPowerCalculator: UID 1013 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.093   687   746 W CpuPowerCalculator: UID 1013 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.093   687   746 W CpuPowerCalculator: UID 1010 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.093   687   746 W CpuPowerCalculator: UID 1010 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.093   687   746 W CpuPowerCalculator: UID 1003 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.093   687   746 W CpuPowerCalculator: UID 1003 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.094   687   746 W CpuPowerCalculator: UID 1002 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.094   687   746 W CpuPowerCalculator: UID 1002 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.095   687   746 W CpuPowerCalculator: UID 1002 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.095   687   746 W CpuPowerCalculator: UID 1002 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.095   687   746 W CpuPowerCalculator: UID 1001 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.095   687   746 W CpuPowerCalculator: UID 1001 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.096   687   746 W CpuPowerCalculator: UID 1001 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.096   687   746 W CpuPowerCalculator: UID 1001 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.101   687   746 W CpuPowerCalculator: UID 1000 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.102   687   746 W CpuPowerCalculator: UID 1000 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.102   687   746 W CpuPowerCalculator: UID 1000 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.102   687   746 W CpuPowerCalculator: UID 1000 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.103   687   746 W CpuPowerCalculator: UID 0 CPU cluster # mismatch: Power Profile # 2 actual # 4
+06-25 05:13:01.103   687   746 W CpuPowerCalculator: UID 0 CPU freq # mismatch: Power Profile # 2 actual # 8
+06-25 05:13:01.108   687   742 W system_server: Long monitor contention with owner bgres-controller (746) at java.util.List com.android.internal.os.BatteryUsageStatsProvider.getBatteryUsageStats(java.util.List)(BatteryUsageStatsProvider.java:133) waiters=0 in void com.android.server.am.BatteryStatsService.lambda$updateBatteryStatsOnActivityUsage$99(boolean, int, long, long) for 198ms
+06-25 05:13:01.112 13246 13276 W Parcel  : Expecting binder but got null!
+06-25 05:13:01.120   687   726 W ziparchive: Unable to open '/data/app/~~s1DyhpIMl2M8Tzq-XO1Nwg==/com.example.dogglers-JSBucVTvcMG97SpM-iy7Vg==/base.dm': No such file or directory
+06-25 05:13:01.123   687   726 I ActivityTaskManager: Displayed com.example.dogglers/.GridListActivity: +348ms
+06-25 05:13:01.125 13246 13246 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+06-25 05:13:01.145  3086  3086 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+06-25 05:13:01.146  3086  3086 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+06-25 05:13:01.148   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af20e90
+06-25 05:13:01.148   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af22030
+06-25 05:13:01.148   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af22030
+06-25 05:13:01.148   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af20e90
+06-25 05:13:01.149  3086  3086 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+06-25 05:13:01.153  3086  3086 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+06-25 05:13:01.166 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c in: STOPPED
+06-25 05:13:01.168 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c
+06-25 05:13:01.180   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.184 13246 13246 I ViewInteraction: Performing 'scroll RecyclerView to position: 5' action on view view.getId() is <2131230937/com.example.dogglers:id/grid_recycler_view>
+06-25 05:13:01.192  1172  1428 D BtGatt.ScanManager: uid 10110 isForeground true scanMode 1
+06-25 05:13:01.192  1172  1428 D BtGatt.ScanManager: uid 10110 isForeground true scanMode 2
+06-25 05:13:01.192  1172  1428 D BtGatt.ScanManager: uid 10110 isForeground true scanMode -1
+06-25 05:13:01.197   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af277f0
+06-25 05:13:01.199 13246 13246 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Bella"
+06-25 05:13:01.214   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af24730
+06-25 05:13:01.214   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af1f570
+06-25 05:13:01.280 13246 13246 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@48afed2 in: PAUSED
+06-25 05:13:01.282 13246 13246 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.GridListActivity@48afed2
+06-25 05:13:01.292 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87 in: PRE_ON_CREATE
+06-25 05:13:01.293 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87
+06-25 05:13:01.303 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87 in: CREATED
+06-25 05:13:01.304 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87
+06-25 05:13:01.305 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87 in: STARTED
+06-25 05:13:01.305 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87
+06-25 05:13:01.307 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87 in: RESUMED
+06-25 05:13:01.308 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87
+06-25 05:13:01.337 13246 13276 W Parcel  : Expecting binder but got null!
+06-25 05:13:01.340   687   730 W InputManager-JNI: Input channel object '591dfe9 Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+06-25 05:13:01.341   687   726 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +68ms
+06-25 05:13:01.347   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af26110
+06-25 05:13:01.347   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af26110
+06-25 05:13:01.347   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af22930
+06-25 05:13:01.347   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af238f0
+06-25 05:13:01.348   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.348   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.362 13246 13246 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@48afed2 in: STOPPED
+06-25 05:13:01.363 13246 13246 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.GridListActivity@48afed2
+06-25 05:13:01.367 13246 13246 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@48afed2 in: DESTROYED
+06-25 05:13:01.367 13246 13246 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-25 05:13:01.373   687  2149 W InputManager-JNI: Input channel object '986702c com.example.dogglers/com.example.dogglers.GridListActivity (client)' was disposed without first being removed with the input manager!
+06-25 05:13:01.380   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af27c70
+06-25 05:13:01.380   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af28e10
+06-25 05:13:01.380   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.380   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.381   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.384  3086  3086 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+06-25 05:13:01.384 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87 in: PAUSED
+06-25 05:13:01.386 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87
+06-25 05:13:01.387  3086  3086 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+06-25 05:13:01.388  3086  3086 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+06-25 05:13:01.389  3086  3086 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+06-25 05:13:01.396 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c in: DESTROYED
+06-25 05:13:01.397 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@8148c9c
+06-25 05:13:01.398   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af26c50
+06-25 05:13:01.398   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af2a430
+06-25 05:13:01.398   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.399   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.405 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680 in: PRE_ON_CREATE
+06-25 05:13:01.408 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680
+06-25 05:13:01.414   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af29d70
+06-25 05:13:01.416 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680 in: CREATED
+06-25 05:13:01.416 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680
+06-25 05:13:01.418 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680 in: STARTED
+06-25 05:13:01.419 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680
+06-25 05:13:01.421 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680 in: RESUMED
+06-25 05:13:01.422 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680
+06-25 05:13:01.446 13246 13276 W Parcel  : Expecting binder but got null!
+06-25 05:13:01.447   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.447   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.453   687   726 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +96ms
+06-25 05:13:01.464   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af16e10
+06-25 05:13:01.464   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af27430
+06-25 05:13:01.464   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.475 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87 in: STOPPED
+06-25 05:13:01.475 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87
+06-25 05:13:01.485 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87 in: DESTROYED
+06-25 05:13:01.485 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@58d87
+06-25 05:13:01.489   687  2149 W InputManager-JNI: Input channel object '26d77d5 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+06-25 05:13:01.496 13246 13246 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680 in: PAUSED
+06-25 05:13:01.496 13246 13246 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e645680
+06-25 05:13:01.497   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af23710
+06-25 05:13:01.497   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af24a90
+06-25 05:13:01.497   417   575 W TransactionTracing: Could not find layer handle 0x7d4c9af245b0
+06-25 05:13:01.498   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.498   417   575 W TransactionTracing: Could not find layer id -1
+06-25 05:13:01.506 13246 13273 I TestRunner: finished: grid_list_content_at_last_position(com.example.dogglers.GridListTests)
